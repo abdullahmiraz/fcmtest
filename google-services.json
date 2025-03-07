@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "318700872830",
+    "project_id": "native-pushy-android",
+    "storage_bucket": "native-pushy-android.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318700872830:android:adf16e2e4e720535e3242f",
+        "android_client_info": {
+          "package_name": "com.miraz.coder.fcmtest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_TWrQfD-KxoNhtMa326InXwvRy96XWqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
